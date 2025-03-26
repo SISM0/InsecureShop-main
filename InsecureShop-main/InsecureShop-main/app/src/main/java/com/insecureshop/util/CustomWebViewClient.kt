@@ -7,7 +7,12 @@ import android.webkit.WebViewClient
 
 class CustomWebViewClient : WebViewClient() {
 
-    override fun onReceivedSslError(view: WebView?, handler: SslErrorHandler?, error: SslError?) {
-        handler?.proceed()
+    override fun onReceivedSslError(
+        view: WebView?,
+        handler: SslErrorHandler?,
+        error: SslError?
+    ) {
+        // Annuler la connexion si le certificat n'est pas valide
+        handler?.cancel()
     }
 }
