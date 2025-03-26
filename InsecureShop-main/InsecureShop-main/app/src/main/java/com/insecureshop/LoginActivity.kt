@@ -37,7 +37,6 @@ class LoginActivity : AppCompatActivity() {
         val password = mBinding.edtPassword.text.toString()
 
         Log.d("userName", username)
-
         var auth = Util.verifyUserNamePassword(username, password)
         if (auth) {
             Prefs.getInstance(applicationContext).username = username
