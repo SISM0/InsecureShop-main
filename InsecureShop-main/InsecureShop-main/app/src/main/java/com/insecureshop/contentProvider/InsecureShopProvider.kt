@@ -6,6 +6,8 @@ import android.content.UriMatcher
 import android.database.Cursor
 import android.database.MatrixCursor
 import android.net.Uri
+import android.os.Binder
+import android.util.Log
 import com.insecureshop.util.Prefs
 
 
@@ -29,12 +31,22 @@ class InsecureShopProvider : ContentProvider() {
         selectionArgs: Array<out String>?,
         sortOrder: String?
     ): Cursor? {
+        if (!isCallerAllowed()) {
+            Log.w("InsecureShopProvider", "Accès refusé : Appelant non autorisé")
+            return null
+        }
+
         if (uriMatcher?.match(uri) == URI_CODE) {
             val cursor = MatrixCursor(arrayOf("username", "password"))
             cursor.addRow(arrayOf<String>(Prefs.username!!, Prefs.password!!))
             return cursor
         }
         return null
+    }
+
+    private fun isCallerAllowed(): Boolean {
+        val callingPackages = context?.packageManager?.getPackagesForUid(Binder.getCallingUid())
+        return callingPackages?.contains("com.insecureshop") == true
     }
 
     override fun getType(uri: Uri): String? {

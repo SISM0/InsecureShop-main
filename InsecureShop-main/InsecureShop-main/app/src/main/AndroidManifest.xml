@@ -7,7 +7,8 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
 
-    <permission android:name="com.insecureshop.permission.READ" />
+    <permission android:name="com.insecureshop.permission.SECURE_ACCESS"
+        android:protectionLevel="signature"  />
 
     <application
         android:name=".InsecureShopApp"
@@ -84,7 +85,12 @@
             android:name=".contentProvider.InsecureShopProvider"
             android:authorities="com.insecureshop.provider"
             android:exported="true"
-            android:readPermission="com.insecureshop.permission.READ" />
+            android:permission="com.insecureshop.permission.SECURE_ACCESS" />
+        <provider
+            android:name=".contentProvider.InsecureshopFileProvider"
+            android:authorities="com.insecureshop.file_provider"
+            android:exported="true"
+            android:permission="com.insecureshop.permission.SECURE_ACCESS" />
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="com.insecureshop.file_provider"
