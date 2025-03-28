@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/activity_webview.xml",
+        "source": "com.insecureshop.app-main-29:/layout/activity_webview.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/product_item.xml",
+        "source": "com.insecureshop.app-main-29:/layout/product_item.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/upload_success_dialog.xml",
+        "source": "com.insecureshop.app-main-29:/layout/upload_success_dialog.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/app_loading_dialog.xml",
+        "source": "com.insecureshop.app-main-29:/layout/app_loading_dialog.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/fragment_home.xml",
+        "source": "com.insecureshop.app-main-29:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/activity_main.xml",
+        "source": "com.insecureshop.app-main-29:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/activity_private.xml",
+        "source": "com.insecureshop.app-main-29:/layout/activity_private.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/activity_login.xml",
+        "source": "com.insecureshop.app-main-29:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/toolbar.xml",
+        "source": "com.insecureshop.app-main-29:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/base_main.xml",
+        "source": "com.insecureshop.app-main-29:/layout/base_main.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/cart_item.xml",
+        "source": "com.insecureshop.app-main-29:/layout/cart_item.xml"
+    },
+    {
+        "merged": "com.insecureshop.app-mergeDebugResources-26:/layout/activity_implicit_intent_for_non_exported.xml",
+        "source": "com.insecureshop.app-main-29:/layout/activity_implicit_intent_for_non_exported.xml"
+    }
+]

@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "com.insecureshop"
-        minSdkVersion 19
+        minSdkVersion 23
         targetSdkVersion 33
         versionCode 1
         versionName "1.0"
@@ -45,6 +45,7 @@ dependencies {
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
     implementation 'com.google.code.gson:gson:2.8.6'
     implementation 'net.gotev:uploadservice:3.2.1'
+    implementation 'androidx.security:security-crypto:1.1.0-alpha03'
 
 
 }

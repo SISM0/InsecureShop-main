@@ -2,6 +2,8 @@ package com.insecureshop.util
 
 import android.content.Context
 import android.content.SharedPreferences
+import androidx.security.crypto.EncryptedSharedPreferences
+import androidx.security.crypto.MasterKey
 
 object Prefs {
 
@@ -10,8 +12,17 @@ object Prefs {
 
     fun getInstance(context: Context): Prefs {
         if (prefs == null) {
-            sharedpreferences =
-                context.getSharedPreferences("Prefs", Context.MODE_PRIVATE)
+            val masterKeyAlias = MasterKey.Builder(context)
+                .setKeyScheme(MasterKey.KeyScheme.AES256_GCM)
+                .build()
+
+            sharedpreferences = EncryptedSharedPreferences.create(
+                context,
+                "Prefs",
+                masterKeyAlias,
+                EncryptedSharedPreferences.PrefKeyEncryptionScheme.AES256_SIV,
+                EncryptedSharedPreferences.PrefValueEncryptionScheme.AES256_GCM
+            )
             prefs = this
         }
         return prefs!!

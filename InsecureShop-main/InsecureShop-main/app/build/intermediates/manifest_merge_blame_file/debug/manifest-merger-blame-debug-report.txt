@@ -1,0 +1,257 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.insecureshop"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_CONTACTS" />
+14-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:8:5-72
+14-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:8:22-69
+15
+16    <permission android:name="com.insecureshop.permission.READ" />
+16-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:10:5-67
+16-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:10:17-64
+17
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:14:5-68
+18-->[net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:14:22-65
+19
+20    <application
+20-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:12:5-97:19
+21        android:name="com.insecureshop.InsecureShopApp"
+21-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:13:9-40
+22        android:allowBackup="true"
+22-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:14:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.3.0] C:\Users\adrie\.gradle\caches\transforms-3\902f122816b4da3e878fc9f5bc946b0e\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:15:9-43
+27        android:label="@string/app_name"
+27-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:16:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:17:9-54
+29        android:supportsRtl="true"
+29-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:18:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme"
+31-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:19:9-40
+32        android:usesCleartextTraffic="true" >
+32-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:20:9-44
+33        <activity
+33-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:21:9-45:20
+34            android:name="com.insecureshop.ChooserActivity"
+34-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:22:13-44
+35            android:excludeFromRecents="true"
+35-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:24:13-46
+36            android:exported="true" >
+36-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:23:13-36
+37            <intent-filter>
+37-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:25:13-29:29
+38                <action android:name="android.intent.action.VIEW" />
+38-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:26:17-69
+38-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:26:25-66
+39
+40                <category android:name="android.intent.category.DEFAULT" />
+40-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:28:17-76
+40-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:28:27-73
+41            </intent-filter>
+42            <intent-filter>
+42-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:30:13-40:29
+43                <action android:name="android.intent.action.SEND" />
+43-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:31:17-69
+43-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:31:25-66
+44
+45                <category android:name="android.intent.category.DEFAULT" />
+45-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:28:17-76
+45-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:28:27-73
+46
+47                <data android:mimeType="application/*" />
+47-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:17-58
+47-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:23-55
+48                <data android:mimeType="audio/*" />
+48-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:17-58
+48-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:23-55
+49                <data android:mimeType="image/*" />
+49-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:17-58
+49-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:23-55
+50                <data android:mimeType="text/*" />
+50-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:17-58
+50-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:23-55
+51                <data android:mimeType="video/*" />
+51-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:17-58
+51-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:23-55
+52            </intent-filter>
+53
+54            <meta-data
+54-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:42:13-44:69
+55                android:name="android.service.chooser.chooser_target_service"
+55-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:43:17-78
+56                android:value=".ConversationChooserTargetService" />
+56-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:44:17-66
+57        </activity>
+58        <activity
+58-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:46:9-48:39
+59            android:name="com.insecureshop.AboutUsActivity"
+59-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:47:13-44
+60            android:exported="true" />
+60-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:48:13-36
+61        <activity android:name="com.insecureshop.CartListActivity" />
+61-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:49:9-54
+61-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:49:19-51
+62        <activity
+62-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:50:9-56:20
+63            android:name="com.insecureshop.ProductListActivity"
+63-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:50:19-54
+64            android:exported="true" >
+64-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:50:55-78
+65            <intent-filter>
+65-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:51:13-55:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:52:17-69
+66-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:52:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:54:17-77
+68-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:54:27-74
+69            </intent-filter>
+70        </activity>
+71        <activity android:name="com.insecureshop.LoginActivity" />
+71-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:57:9-51
+71-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:57:19-48
+72        <activity
+72-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:58:9-68:20
+73            android:name="com.insecureshop.WebViewActivity"
+73-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:58:19-50
+74            android:exported="true" >
+74-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:58:51-74
+75            <intent-filter>
+75-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:59:13-67:29
+76                <action android:name="android.intent.action.VIEW" />
+76-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:26:17-69
+76-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:26:25-66
+77
+78                <category android:name="android.intent.category.DEFAULT" />
+78-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:28:17-76
+78-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:28:27-73
+79                <category android:name="android.intent.category.BROWSABLE" />
+79-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:62:17-78
+79-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:62:27-75
+80
+81                <data
+81-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:17-58
+82                    android:host="com.insecureshop"
+82-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:65:21-52
+83                    android:scheme="insecureshop" />
+83-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:66:21-50
+84            </intent-filter>
+85        </activity>
+86        <activity
+86-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:69:9-75:20
+87            android:name="com.insecureshop.WebView2Activity"
+87-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:69:19-51
+88            android:exported="true" >
+88-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:69:52-75
+89            <intent-filter>
+89-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:70:13-74:29
+90                <action android:name="com.insecureshop.action.WEBVIEW" />
+90-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:71:17-74
+90-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:71:25-71
+91
+92                <category android:name="android.intent.category.DEFAULT" />
+92-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:28:17-76
+92-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:28:27-73
+93                <category android:name="android.intent.category.BROWSABLE" />
+93-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:62:17-78
+93-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:62:27-75
+94            </intent-filter>
+95        </activity>
+96        <activity
+96-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:76:9-78:40
+97            android:name="com.insecureshop.PrivateActivity"
+97-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:77:13-44
+98            android:exported="false" />
+98-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:78:13-37
+99        <activity android:name="com.insecureshop.SendingDataViaActionActivity" >
+99-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:79:9-81:20
+99-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:79:19-63
+100        </activity>
+101        <activity
+101-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:82:9-75
+102            android:name="com.insecureshop.ResultActivity"
+102-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:82:19-49
+103            android:exported="true" />
+103-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:82:50-73
+104
+105        <provider
+105-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:83:9-87:73
+106            android:name="com.insecureshop.contentProvider.InsecureShopProvider"
+106-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:84:13-65
+107            android:authorities="com.insecureshop.provider"
+107-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:85:13-60
+108            android:exported="true"
+108-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:86:13-36
+109            android:readPermission="com.insecureshop.permission.READ" />
+109-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:87:13-70
+110        <provider
+110-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:88:9-96:20
+111            android:name="androidx.core.content.FileProvider"
+111-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:89:13-62
+112            android:authorities="com.insecureshop.file_provider"
+112-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:90:13-65
+113            android:exported="false"
+113-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:91:13-37
+114            android:grantUriPermissions="true" >
+114-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:92:13-47
+115            <meta-data
+115-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:93:13-95:58
+116                android:name="android.support.FILE_PROVIDER_PATHS"
+116-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:94:17-67
+117                android:resource="@xml/provider_paths" />
+117-->C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:95:17-55
+118        </provider>
+119
+120        <service
+120-->[net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:17:9-21:19
+121            android:name="net.gotev.uploadservice.UploadService"
+121-->[net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:18:13-65
+122            android:enabled="true"
+122-->[net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:19:13-35
+123            android:exported="true" >
+123-->[net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:20:13-36
+124        </service>
+125
+126        <provider
+126-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+127            android:name="androidx.startup.InitializationProvider"
+127-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:27:13-67
+128            android:authorities="com.insecureshop.androidx-startup"
+128-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:28:13-68
+129            android:exported="false" >
+129-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:29:13-37
+130            <meta-data
+130-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+131                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+131-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+132                android:value="androidx.startup" />
+132-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+133        </provider>
+134    </application>
+135
+136</manifest>

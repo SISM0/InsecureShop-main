@@ -1,0 +1,421 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:2:1-99:12
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\a509a24766d5c268e3cbef802636df32\transformed\databinding-adapters-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\676d517740c9c6d6c0e7dbc113ab1234\transformed\jetified-databinding-ktx-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\76b4c02013e5ea2a0b209e97bfca1d0a\transformed\databinding-runtime-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\d927f85a95fa3216c929bce2dbf4a68e\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\3cb36527e7f12a17fb12e953cb48bf70\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\13454598f9f7fbe3149109394c7484b7\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\adrie\.gradle\caches\transforms-3\f556bf5035961e3860c5a6793913ab8b\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\adrie\.gradle\caches\transforms-3\ba31264b6f94c5aac2510160c33a5b68\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\adrie\.gradle\caches\transforms-3\43f538594fbe6d172f7b094e4e0652b9\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\adrie\.gradle\caches\transforms-3\ecabed0e1483c92c2b05ac11c65a0b7e\transformed\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\b403eef979d0d5a313dac6c8d7de4259\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\2a09e9cd5ffa4b416034c4d889cfb8ed\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\bd4bae2559f9e287002c73a4a9078dbd\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\e59fb923e7b4771e0660fda008b98090\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\5ca0623296bb0e830d92b56c2237da92\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\4402b9dc87ffde0eb9427f39b9c17095\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\d9c93f3e4ccad6102134bf3c824866a0\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\adrie\.gradle\caches\transforms-3\0f0a6259d76c284062fa5d96b1c5f7bd\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\e2d98ec854f1ca727582272ac12d32b0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\258c2c6f96053ee8419e6a32764438a3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\5ca5983439ded28a98172948ab536761\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\a662749a5b4569d4d3b085eba68c753c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\0ba7230a6457ed8394a9e867561f514b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\3112f936959fb6ff8c472f19fb5dffcd\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\b983dd5898f3c7c7ba514dcca133e7cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\4b5b022a3e5bdc9756fa85148bfdc922\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\9f37def06521a5b020f1394b00611a2b\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\7e1fab29d6520b014956e34dd79a4e3d\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\0c7f86ca8954b1b7946529dc732a9dd8\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\18db942701acc34a431bdb1b5b9df2ec\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\adrie\.gradle\caches\transforms-3\902f122816b4da3e878fc9f5bc946b0e\transformed\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\ad86b9508cf01cc882eef803f8a3e49c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\be2a0dbd7ecb749b719f6da926358504\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\14a229c7dfadcb07a1cc61326992d1b6\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\c70d463b9a1e5fe2c8ea432a347d0a10\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e0dcd4f0700d2ca0ef8912e482370cf6\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\48e722f9d3a5260c71001729c54a8b42\transformed\lifecycle-viewmodel-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\f465d19b3b15683bb33517fc6cd8b441\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\ae7f45bc9cdbd738884a6a968d8faeb4\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\adrie\.gradle\caches\transforms-3\2473975e218a83e2c8ceda5eedf5e531\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\ee4adb691e4681ed3302415742fbb589\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\a1d2f6a7a21b173514a22e93b2b40827\transformed\lifecycle-livedata-core-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\adrie\.gradle\caches\transforms-3\0730476e7a06a6f2ca24ee8aff123a39\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\8833b6ec66174643bc45ae1a4395faad\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\7996661ddd4b2c3a1e41c74d5deeac56\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\5ed74e5d00d25c1980705fea19cb75f9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\9bc0254f8188de206c61d135be66ecca\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\aceb5d1234039d1b98753f59c319e968\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\b9e48a8000d6405097ef8bb8d3f3bdbb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\735eb47f2d76ef62b8f7cca7da83744a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:2:1-99:12
+	package
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:2:1-99:12
+		INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:2:1-99:12
+		INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:12:5-80
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:13:5-81
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:8:22-69
+permission#com.insecureshop.permission.READ
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:10:17-64
+application
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:12:5-97:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\3cb36527e7f12a17fb12e953cb48bf70\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\3cb36527e7f12a17fb12e953cb48bf70\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:16:5-22:19
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:16:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\adrie\.gradle\caches\transforms-3\ba31264b6f94c5aac2510160c33a5b68\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\adrie\.gradle\caches\transforms-3\ba31264b6f94c5aac2510160c33a5b68\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\adrie\.gradle\caches\transforms-3\43f538594fbe6d172f7b094e4e0652b9\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\adrie\.gradle\caches\transforms-3\43f538594fbe6d172f7b094e4e0652b9\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\adrie\.gradle\caches\transforms-3\902f122816b4da3e878fc9f5bc946b0e\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\adrie\.gradle\caches\transforms-3\902f122816b4da3e878fc9f5bc946b0e\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\ad86b9508cf01cc882eef803f8a3e49c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\ad86b9508cf01cc882eef803f8a3e49c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\adrie\.gradle\caches\transforms-3\2473975e218a83e2c8ceda5eedf5e531\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\adrie\.gradle\caches\transforms-3\2473975e218a83e2c8ceda5eedf5e531\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\7996661ddd4b2c3a1e41c74d5deeac56\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\7996661ddd4b2c3a1e41c74d5deeac56\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\adrie\.gradle\caches\transforms-3\902f122816b4da3e878fc9f5bc946b0e\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:19:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.insecureshop.ChooserActivity
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:21:9-45:20
+	android:excludeFromRecents
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:24:13-46
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:22:13-44
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:28:27-73
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:application/*+data:mimeType:audio/*+data:mimeType:image/*+data:mimeType:text/*+data:mimeType:video/*
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:30:13-40:29
+action#android.intent.action.SEND
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:31:25-66
+data
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:17-58
+	android:host
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:65:21-52
+	android:scheme
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:66:21-50
+	android:mimeType
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:35:23-55
+meta-data#android.service.chooser.chooser_target_service
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:42:13-44:69
+	android:value
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:44:17-66
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:43:17-78
+activity#com.insecureshop.AboutUsActivity
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:46:9-48:39
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:47:13-44
+activity#com.insecureshop.CartListActivity
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:49:9-54
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:49:19-51
+activity#com.insecureshop.ProductListActivity
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:50:9-56:20
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:50:55-78
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:50:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:54:27-74
+activity#com.insecureshop.LoginActivity
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:57:9-51
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:57:19-48
+activity#com.insecureshop.WebViewActivity
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:58:9-68:20
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:58:51-74
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:58:19-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.insecureshop+data:scheme:insecureshop
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:59:13-67:29
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:62:17-78
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:62:27-75
+activity#com.insecureshop.WebView2Activity
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:69:9-75:20
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:69:52-75
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:69:19-51
+intent-filter#action:name:com.insecureshop.action.WEBVIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:70:13-74:29
+action#com.insecureshop.action.WEBVIEW
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:71:17-74
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:71:25-71
+activity#com.insecureshop.PrivateActivity
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:76:9-78:40
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:78:13-37
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:77:13-44
+activity#com.insecureshop.SendingDataViaActionActivity
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:79:9-81:20
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:79:19-63
+activity#com.insecureshop.ResultActivity
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:82:9-75
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:82:50-73
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:82:19-49
+provider#com.insecureshop.contentProvider.InsecureShopProvider
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:83:9-87:73
+	android:readPermission
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:87:13-70
+	android:authorities
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:85:13-60
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:86:13-36
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:84:13-65
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:88:9-96:20
+	android:grantUriPermissions
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:92:13-47
+	android:authorities
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:90:13-65
+	android:exported
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:91:13-37
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:89:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:93:13-95:58
+	android:resource
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:95:17-55
+	android:name
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml:94:17-67
+uses-sdk
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\a509a24766d5c268e3cbef802636df32\transformed\databinding-adapters-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\a509a24766d5c268e3cbef802636df32\transformed\databinding-adapters-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\676d517740c9c6d6c0e7dbc113ab1234\transformed\jetified-databinding-ktx-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\676d517740c9c6d6c0e7dbc113ab1234\transformed\jetified-databinding-ktx-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\76b4c02013e5ea2a0b209e97bfca1d0a\transformed\databinding-runtime-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\76b4c02013e5ea2a0b209e97bfca1d0a\transformed\databinding-runtime-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\d927f85a95fa3216c929bce2dbf4a68e\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\d927f85a95fa3216c929bce2dbf4a68e\transformed\jetified-lifecycle-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\3cb36527e7f12a17fb12e953cb48bf70\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\3cb36527e7f12a17fb12e953cb48bf70\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\13454598f9f7fbe3149109394c7484b7\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\13454598f9f7fbe3149109394c7484b7\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\adrie\.gradle\caches\transforms-3\f556bf5035961e3860c5a6793913ab8b\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\adrie\.gradle\caches\transforms-3\f556bf5035961e3860c5a6793913ab8b\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\adrie\.gradle\caches\transforms-3\ba31264b6f94c5aac2510160c33a5b68\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\adrie\.gradle\caches\transforms-3\ba31264b6f94c5aac2510160c33a5b68\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\adrie\.gradle\caches\transforms-3\43f538594fbe6d172f7b094e4e0652b9\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\adrie\.gradle\caches\transforms-3\43f538594fbe6d172f7b094e4e0652b9\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\adrie\.gradle\caches\transforms-3\ecabed0e1483c92c2b05ac11c65a0b7e\transformed\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\adrie\.gradle\caches\transforms-3\ecabed0e1483c92c2b05ac11c65a0b7e\transformed\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\b403eef979d0d5a313dac6c8d7de4259\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\b403eef979d0d5a313dac6c8d7de4259\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\2a09e9cd5ffa4b416034c4d889cfb8ed\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\2a09e9cd5ffa4b416034c4d889cfb8ed\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\bd4bae2559f9e287002c73a4a9078dbd\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\bd4bae2559f9e287002c73a4a9078dbd\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\e59fb923e7b4771e0660fda008b98090\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\e59fb923e7b4771e0660fda008b98090\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\5ca0623296bb0e830d92b56c2237da92\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\5ca0623296bb0e830d92b56c2237da92\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\4402b9dc87ffde0eb9427f39b9c17095\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\4402b9dc87ffde0eb9427f39b9c17095\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\d9c93f3e4ccad6102134bf3c824866a0\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\d9c93f3e4ccad6102134bf3c824866a0\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\adrie\.gradle\caches\transforms-3\0f0a6259d76c284062fa5d96b1c5f7bd\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\adrie\.gradle\caches\transforms-3\0f0a6259d76c284062fa5d96b1c5f7bd\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\e2d98ec854f1ca727582272ac12d32b0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\e2d98ec854f1ca727582272ac12d32b0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\258c2c6f96053ee8419e6a32764438a3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\258c2c6f96053ee8419e6a32764438a3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\5ca5983439ded28a98172948ab536761\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\5ca5983439ded28a98172948ab536761\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\a662749a5b4569d4d3b085eba68c753c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\a662749a5b4569d4d3b085eba68c753c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\0ba7230a6457ed8394a9e867561f514b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\0ba7230a6457ed8394a9e867561f514b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\3112f936959fb6ff8c472f19fb5dffcd\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\3112f936959fb6ff8c472f19fb5dffcd\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\b983dd5898f3c7c7ba514dcca133e7cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\b983dd5898f3c7c7ba514dcca133e7cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\4b5b022a3e5bdc9756fa85148bfdc922\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\4b5b022a3e5bdc9756fa85148bfdc922\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\9f37def06521a5b020f1394b00611a2b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\9f37def06521a5b020f1394b00611a2b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\7e1fab29d6520b014956e34dd79a4e3d\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\7e1fab29d6520b014956e34dd79a4e3d\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\0c7f86ca8954b1b7946529dc732a9dd8\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\0c7f86ca8954b1b7946529dc732a9dd8\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\18db942701acc34a431bdb1b5b9df2ec\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\18db942701acc34a431bdb1b5b9df2ec\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\adrie\.gradle\caches\transforms-3\902f122816b4da3e878fc9f5bc946b0e\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\adrie\.gradle\caches\transforms-3\902f122816b4da3e878fc9f5bc946b0e\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\ad86b9508cf01cc882eef803f8a3e49c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\adrie\.gradle\caches\transforms-3\ad86b9508cf01cc882eef803f8a3e49c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\be2a0dbd7ecb749b719f6da926358504\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\adrie\.gradle\caches\transforms-3\be2a0dbd7ecb749b719f6da926358504\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\14a229c7dfadcb07a1cc61326992d1b6\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\14a229c7dfadcb07a1cc61326992d1b6\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\c70d463b9a1e5fe2c8ea432a347d0a10\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\c70d463b9a1e5fe2c8ea432a347d0a10\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e0dcd4f0700d2ca0ef8912e482370cf6\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e0dcd4f0700d2ca0ef8912e482370cf6\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\48e722f9d3a5260c71001729c54a8b42\transformed\lifecycle-viewmodel-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\48e722f9d3a5260c71001729c54a8b42\transformed\lifecycle-viewmodel-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\f465d19b3b15683bb33517fc6cd8b441\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\f465d19b3b15683bb33517fc6cd8b441\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\ae7f45bc9cdbd738884a6a968d8faeb4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\ae7f45bc9cdbd738884a6a968d8faeb4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\adrie\.gradle\caches\transforms-3\2473975e218a83e2c8ceda5eedf5e531\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\adrie\.gradle\caches\transforms-3\2473975e218a83e2c8ceda5eedf5e531\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\ee4adb691e4681ed3302415742fbb589\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\ee4adb691e4681ed3302415742fbb589\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\a1d2f6a7a21b173514a22e93b2b40827\transformed\lifecycle-livedata-core-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\a1d2f6a7a21b173514a22e93b2b40827\transformed\lifecycle-livedata-core-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\adrie\.gradle\caches\transforms-3\0730476e7a06a6f2ca24ee8aff123a39\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\adrie\.gradle\caches\transforms-3\0730476e7a06a6f2ca24ee8aff123a39\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\8833b6ec66174643bc45ae1a4395faad\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\8833b6ec66174643bc45ae1a4395faad\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\7996661ddd4b2c3a1e41c74d5deeac56\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\7996661ddd4b2c3a1e41c74d5deeac56\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\5ed74e5d00d25c1980705fea19cb75f9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\5ed74e5d00d25c1980705fea19cb75f9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\9bc0254f8188de206c61d135be66ecca\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\9bc0254f8188de206c61d135be66ecca\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\aceb5d1234039d1b98753f59c319e968\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\aceb5d1234039d1b98753f59c319e968\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\b9e48a8000d6405097ef8bb8d3f3bdbb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\b9e48a8000d6405097ef8bb8d3f3bdbb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\735eb47f2d76ef62b8f7cca7da83744a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\735eb47f2d76ef62b8f7cca7da83744a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\adrie\Desktop\version final\InsecureShop-main\InsecureShop-main\InsecureShop-main\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:14:22-65
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:17:9-21:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [net.gotev:uploadservice:3.2.1] C:\Users\adrie\.gradle\caches\transforms-3\3febc43c1dcbf9f17a7bfa694d265c5b\transformed\jetified-uploadservice-3.2.1\AndroidManifest.xml:18:13-65
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\7996661ddd4b2c3a1e41c74d5deeac56\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\adrie\.gradle\caches\transforms-3\7996661ddd4b2c3a1e41c74d5deeac56\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\adrie\.gradle\caches\transforms-3\e500cd5c3f9f0a32ba1e1aabf47215ad\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
